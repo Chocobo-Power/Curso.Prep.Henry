@@ -1,0 +1,35 @@
+body {
+    background-image: url('https://img.freepik.com/free-photo/old-black-background-grunge-texture-dark-wallpaper-blackboard-chalkboard-room-wall_1258-28312.jpg?w=1380&t=st=1664765691~exp=1664766291~hmac=478b511a085cb470e02e3c167d1fd640414ab3da61806bfe432aa358dc4634f6');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    /* background-size: cover; */
+    background-size: 100% 100%;
+    
+    color: white;
+
+
+    display: flex;
+    flex-direction: column;
+    align-items:  center;
+}
+
+h1 {
+    color: white;
+}
+
+img {
+    width: 400px;
+}
+
+#thirdDiv {
+    width: 500px;
+    height: 600px;
+    background-color: paleturquoise;
+    padding: 50px;
+    border: 2px solid slateblue;
+}
+
+#spanId {
+    font-size: 18px;
+    margin: 50px;
+}
